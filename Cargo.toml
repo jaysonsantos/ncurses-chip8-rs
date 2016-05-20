@@ -1,0 +1,9 @@
+[package]
+name = "ncurses_chip8"
+version = "0.1.0"
+authors = ["Jayson Reis <santosdosreis@gmail.com>"]
+
+[dependencies]
+byteorder = "*"
+log = "*"
+env_logger = "*"
