@@ -5,5 +5,7 @@ authors = ["Jayson Reis <santosdosreis@gmail.com>"]
 
 [dependencies]
 byteorder = "*"
-log = "*"
 env_logger = "*"
+lazy_static = "0.1.*"
+log = "*"
+ncurses = "*"
